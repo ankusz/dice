@@ -1,2 +1,2 @@
 # dice
-Dice - very simple script for electonic dice, using Javascript
+Dice - very simple script for electronic dice, using Javascript
